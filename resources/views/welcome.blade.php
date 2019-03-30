@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 29/03/19
                 </div>
 
                 <div class="links">
