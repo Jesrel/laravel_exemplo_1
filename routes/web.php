@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/contato',function(){
     return "<h2>jesrelgoncalves@gmail.com</h2>";
 });
+
+Route::get('/sobre', function(){
+    return "<p><h3>Aluno do IFCE na disciplina de PW2</h3></p>";
+});
